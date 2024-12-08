@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+    <style>
+        table,tr,th,td{
+            border: 3px solid black;
+            border-collapse: collapse;
+            background-color: lightblue;
+            text-align: center;
+            height: 100px;
+            width: 500px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Course</th>
+                <th>Fees</th>
+                <th>Duration</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Web Development</td>
+                <td>10000</td>
+                <td>6-months</td>
+            </tr>
+            <tr>
+                <td>DataAnalytics</td>
+                <td>12000</td>
+                <td>9-months</td>
+            </tr>
+            <tr>
+                <td>Python</td>
+                <td>6000</td>
+                <td>3-months</td>
+            </tr>
+            <tr>
+                <td>C++</td>
+                <td rowspan="2">15000</td>
+                <td rowspan="2">9-months</td>
+            </tr>
+            <tr>
+                <td>With Web Development</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
