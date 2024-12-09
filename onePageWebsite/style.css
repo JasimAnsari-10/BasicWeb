@@ -1,0 +1,101 @@
+.main{
+    width: 1000px;
+    height: 640px;
+}
+.row1 {
+    height: 100px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: lighter;
+    color: rgb(149, 200, 220);
+    text-align: center;
+}
+.row2{
+    height: 40px;
+    text-align: center;
+}
+.row3{
+    height: 200px;
+}
+.row2-col1{
+    width: 200px;
+    float: left;
+}
+.row2-col2{
+    width: 200px;
+    float: left;
+}
+.row2-col3{
+    width: 200px;
+    float: left;
+}
+.row2-col4{
+    width: 200px;
+    float: left;
+
+}
+.row2-col5{
+    width: 200px;
+    float: left;
+}
+.row3-col1{
+    height: 200px;
+    width: 250px;
+    float: left;
+}
+.row3-col2{
+    height: 200px;
+    width: 750px;
+    float: left;
+}
+.row3-col1{
+    text-align: center;
+}
+.row31-col1{
+    height: 40px;
+}
+.row31-col1{
+    height: 40px;
+}
+.row32-col1{
+    height: 40px;
+}
+.row33-col1{
+    height: 40px;
+}
+.row34-col1{
+    height: 40px;
+}
+.row35-col1{
+    height: 40px;
+}
+.row3-col2 img{
+    height: 200px;
+    width: 750px;
+}
+.row4{
+    height: 50px;
+    font-size: 45px;
+    text-align: center;
+}
+.row5{
+    height: 100px;
+}
+.row5-col1 img{
+    height: 100px;
+    width: 334px;
+    float: left;
+}
+.row5-col2 img{
+    height: 100px;
+    width: 333px;
+    float: left;
+}
+.row5-col3 img{
+    height: 100px;
+    width: 333px;
+    float: left;
+}
+.row6{
+    height: 50px;
+    text-align: center;
+}
